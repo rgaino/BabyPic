@@ -1,0 +1,274 @@
+TPet Pic
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A533700000000002F9FB0
+t1280987959
+s3121072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A5311000000000000046B
+t1280987921
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.h
+c000000004CCF30C200000000000003DD
+t1288646850
+s989
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m
+c000000004CCF30C20000000000001F78
+t1288646850
+s8056
+i"Pet_PicAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.h
+c000000004CCF30C2000000000000023A
+t1288646850
+s570
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m
+c000000004CCF30C20000000000002EDC
+t1288646850
+s11996
+i"RootViewController.h"
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib
+c000000004CCF30C20000000000005FF4
+t1288646850
+s24564
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld
+c000000004CCF30C20000000000000088
+t1288646850
+s136
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic_Prefix.pch
+c000000004CCF30C20000000000000163
+t1288646850
+s355
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib
+c000000004CCF30C20000000000004452
+t1288646850
+s17490
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app.dSYM
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Info.plist
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/MainWindow.nib
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Pet Pic
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Pet_Pic.momd
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/PkgInfo
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/ResourceRules.plist
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/RootViewController.nib
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/Pet Pic
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/Pet Pic.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/Pet_PicAppDelegate.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/Pet Pic
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/Pet Pic.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/Pet_PicAppDelegate.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m
+c000000004CCF30C2000000000000015C
+t1288646850
+s348
+i<UIKit/UIKit.h>
+
+N/Users/rafaelgaino/Library/MobileDevice/Provisioning Profiles/1AA40292-A687-4351-981F-7AA5220A2141.mobileprovision
+c000000004CBD4DAF0000000000002042
+t1287474607
+s8258
+
+N/var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-egzrtgxdqtkiyhabqbpkhynyzclm/Pet_Pic_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-etyredphgplcrkbsudvcydpyyury/Pet_Pic_Prefix.pch.gch
+t2
+s0
+
+NPet_Pic-Info.plist
+c000000004CCF30C2000000000000038D
+t1288646850
+s909
+
+CCodeSign "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app"
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/Pet_PicAppDelegate.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/RootViewController.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/main.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/Pet_PicAppDelegate.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/RootViewController.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/main.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/Pet Pic.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Pet Pic" normal "armv6 armv7"
+r0
+
+CDataModelVersionCompile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Pet_Pic.momd" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app.dSYM" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Pet Pic"
+r0
+
+CLd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv6/Pet Pic" normal armv6
+r0
+
+CLd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Objects-normal/armv7/Pet Pic" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/Info.plist" Pet_Pic-Info.plist
+r0
+
+CProcessPCH /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-egzrtgxdqtkiyhabqbpkhynyzclm/Pet_Pic_Prefix.pch.gch Pet_Pic_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-etyredphgplcrkbsudvcydpyyury/Pet_Pic_Prefix.pch.gch Pet_Pic_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/rafaelgaino/Library/MobileDevice/Provisioning Profiles/1AA40292-A687-4351-981F-7AA5220A2141.mobileprovision" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphoneos/Pet Pic.build/Pet Pic.xcent"
+r0
+
+CTouch "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphoneos/Pet Pic.app"
+r0
+

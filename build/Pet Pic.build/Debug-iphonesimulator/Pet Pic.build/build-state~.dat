@@ -1,0 +1,294 @@
+TPet Pic
+v7
+r0
+t310339692.027766
+cCheck dependencies
+cProcessInfoPlistFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Info.plist" Pet_Pic-Info.plist
+cCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib"
+cCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib"
+cProcessPCH /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch.gch Pet_Pic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld"
+cCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/main.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet_PicAppDelegate.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/RootViewController.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic" normal i386
+cGenerateDSYMFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app.dSYM" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic"
+cTouch "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.h
+c000000004CCF30C200000000000003DD
+t1288646850
+s989
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m
+c000000004CCF30C20000000000001F78
+t1288646850
+s8056
+i"Pet_PicAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.h
+c000000004CCF30C2000000000000023A
+t1288646850
+s570
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m
+c000000004CCF30C20000000000002EDC
+t1288646850
+s11996
+i"RootViewController.h"
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib
+c000000004CCF30C20000000000005FF4
+t1288646850
+s24564
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld
+c000000004CCF30C20000000000000088
+t1288646850
+s136
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic_Prefix.pch
+c000000004CCF30C20000000000000163
+t1288646850
+s355
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib
+c000000004CCF30C20000000000004452
+t1288646850
+s17490
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app
+t1288646892
+s272
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app.dSYM
+t1288646892
+s102
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Info.plist
+t1288646887
+s591
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/MainWindow.nib
+t1288646888
+s2456
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic
+t1288646891
+s31364
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd
+t1288646890
+s136
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/PkgInfo
+t1288646887
+s8
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/RootViewController.nib
+t1288646888
+s1518
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet Pic.LinkFileList
+c000000004CCF30E700000000000001B4
+t1288646887
+s436
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet_PicAppDelegate.o
+t1288646890
+s65256
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/RootViewController.o
+t1288646890
+s64416
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/main.o
+t1288646890
+s6332
+
+N/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m
+c000000004CCF30C2000000000000015C
+t1288646850
+s348
+i<UIKit/UIKit.h>
+
+N/var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch.gch
+t1288646889
+s16080688
+
+NPet_Pic-Info.plist
+c000000004CCF30C2000000000000038D
+t1288646850
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310339687#310339687#0(0"0(0#1#0"8622032832#0"0#
+
+CCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet_PicAppDelegate.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310339690.035184
+e310339690.361289
+r1
+xCompileC
+xbuild/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet_PicAppDelegate.o
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m310339690#310339690#0(0"0(0#0#81"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m8617753920#2126"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-generated-files.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-own-target-headers.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-all-target-headers.hmap" -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-project-headers.hmap" "-F/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/include" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources/i386" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources" -include /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch -c "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/Pet_PicAppDelegate.m" -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet_PicAppDelegate.o"0#
+
+CCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/RootViewController.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310339690.086858
+e310339690.492502
+r1
+xCompileC
+xbuild/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/RootViewController.o
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m310339690#310339690#0(0"0(0#0#81"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m8610075968#2126"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-generated-files.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-own-target-headers.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-all-target-headers.hmap" -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-project-headers.hmap" "-F/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/include" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources/i386" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources" -include /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch -c "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Classes/RootViewController.m" -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/main.o" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s310339689.856044
+e310339690.035079
+r1
+xCompileC
+xbuild/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/main.o
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m310339689#310339690#0(0"0(0#0#59"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m8619558496#2090"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-generated-files.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-own-target-headers.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-all-target-headers.hmap" -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-project-headers.hmap" "-F/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/include" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources/i386" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources" -include /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch -c "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/main.m" -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib"
+s310339687.687759
+e310339688.323330
+r1
+xCompileXIB
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310339687#310339688#0(0"0(0#0#67"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib19140500287062128#618"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/MainWindow.nib" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib"
+s310339687.691837
+e310339688.356125
+r1
+xCompileXIB
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib310339687#310339688#0(0"0(0#0#75"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib8623294848#634"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/RootViewController.nib" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CDataModelVersionCompile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld"
+s310339689.851928
+e310339690.086748
+r1
+xDataModelVersionCompile
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld
+lSLF07#2@99"DataModelVersionCompile "build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd" Pet_Pic.xcdatamodeld310339689#310339690#0(0"0(0#0#73"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld8620963840#434"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic.xcdatamodeld" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet_Pic.momd"0#
+
+CGenerateDSYMFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app.dSYM" "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic"
+s310339691.815205
+e310339692.022308
+r1
+xGenerateDSYMFile
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app.dSYM
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic
+lSLF07#2@113"GenerateDSYMFile "build/Debug-iphonesimulator/Pet Pic.app.dSYM" "build/Debug-iphonesimulator/Pet Pic.app/Pet Pic"310339691#310339692#0(0"0(0#0#100"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic8619638432#431"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic" -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app.dSYM"0#
+
+CLd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic" normal i386
+s310339690.492597
+e310339691.815011
+r1
+xLd
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic
+xnormal
+xi386
+lSLF07#2@105"Link /Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic310339690#310339691#0(0"0(0#0#0"8625372576#1000"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" "-F/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" -filelist "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Objects-normal/i386/Pet Pic.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Pet Pic"0#
+
+CProcessInfoPlistFile "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Info.plist" Pet_Pic-Info.plist
+s310339687.645779
+e310339687.687608
+r1
+xProcessInfoPlistFile
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Info.plist
+xPet_Pic-Info.plist
+lSLF07#2@26"Process Pet_Pic-Info.plist310339687#310339687#0(0"0(0#0#71"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic-Info.plist8609784768#527"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pet_Pic-Info.plist -genpkginfo "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app/Info.plist"0#
+
+CProcessPCH /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch.gch Pet_Pic_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310339688.356241
+e310339689.851263
+r1
+xProcessPCH
+x/var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch.gch
+xPet_Pic_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Pet_Pic_Prefix.pch310339688#310339689#0(0"0(0#0#71"/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic_Prefix.pch8618583488#1966"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-generated-files.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-own-target-headers.hmap" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-all-target-headers.hmap" -iquote "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/Pet Pic-project-headers.hmap" "-F/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/include" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources/i386" "-I/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Pet Pic.build/Debug-iphonesimulator/Pet Pic.build/DerivedSources" -c "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/Pet_Pic_Prefix.pch" -o /var/folders/9v/9vdG6s62Gr4r2qm+YHXqAE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Pet_Pic_Prefix-helkzqpgpforpjebvjlvmnjiatav/Pet_Pic_Prefix.pch.gch0#
+
+CTouch "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app"
+s310339692.022395
+e310339692.027715
+r1
+xTouch
+x/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app
+lSLF07#2@98"Touch /Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app310339692#310339692#0(0"0(0#0#0"8609433664#310"    cd "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/rafaelgaino/Dropbox/Projects/XCode/Pet Pic v2/build/Debug-iphonesimulator/Pet Pic.app"0#
+
